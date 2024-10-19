@@ -1,6 +1,6 @@
 ![Uploading profile_title_img.png…]()
 
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephpicardat)](https://github.com/josephpicardat/github-readme-stats)
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephpicardat)](https://github.com/josephpicardat/github-readme-stats&theme=cobalt)
 <!--
 **josephpicardat/josephpicardat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
