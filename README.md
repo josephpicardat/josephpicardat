@@ -1,4 +1,6 @@
-[![MasterHead]((https://github.com/user-attachments/assets/009ba19c-6684-4bbb-b835-6c9074da59e4))]([your GitHub link](https://github.com/josephpicardat))
+[![MasterHead](https://github.com/user-attachments/assets/009ba19c-6684-4bbb-b835-6c9074da59e4)](https://github.com/josephpicardat)
+
+[![MasterHead](your image link)](your GitHub link)
 
 
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephpicardat&theme=algolia&show_icons=true)
