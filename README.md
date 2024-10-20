@@ -29,10 +29,10 @@
 
 <p align="center">
 <a href="mailto: josephpicardat1@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josephpicardat1@gmail.com"/>
+ <img src="https://img.shields.io/badge/-josephpicardat-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josephpicardat1@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/josephpicardat/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephpicardat/"/>
+ <img src="https://img.shields.io/badge/-josephpicardat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephpicardat/"/>
 </a>
 </p>
 
